@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Create a report to help improve SourceBuild++
-title: ''
+title: "[BUG] (short description here, for example Pink Lighting)"
 labels: bug
 assignees: ''
 
