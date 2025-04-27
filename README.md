@@ -1,10 +1,7 @@
-iteration 2 of new readme.md  
-cleaned up the new line stuff  
-temporary bad build ""instructions""  
-check for grammar issues  
-
-
-# SourceBuild++
+<p align="center">
+  <img src="https://i.ibb.co/FksYWST0/Source-Build-PP.png" width="100"/>
+</p>
+<h1 align="center">SourceBuild++</h1>
 
 SourceBuild++ is a project that modifies the Source SDK map compile tools to bring them up to modern standards.
 The goal is to improve performance, and take the load off of the CPU.
