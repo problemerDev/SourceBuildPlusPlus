@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">SourceBuild++</h1>
 
-SourceBuild++ is a project that modifies the Source SDK map compile tools to bring them up to modern standards.
+SourceBuild++ is a WIP project that modifies the Source SDK map compile tools to bring them up to modern standards.
 The goal is to improve performance, and take the load off of the CPU.
 
 The plan is to modernize all 3 tools.
@@ -78,3 +78,13 @@ Paste the `portalflow_dx11_batch.cpp` file next to it and it should work. (if no
 Right now the focus is on finishing and validating quickVIS.  
 Eventually, I also want to clean up this GitHub page with proper build instructions and other missing stuff.  
 What happens after that? We'll see, chances are we'll never leave the quickVIS patching stage lol  
+
+---
+
+## Credits  
+**Herotroll** - for forcing me to publish my work, and helping me make crucial project-related choices down the line.  
+(*and also making the amazing benchmark map "spawnofsatan"*)  
+
+***[your name here]*** - for being interested in this spaghetti project & code.  
+
+---
